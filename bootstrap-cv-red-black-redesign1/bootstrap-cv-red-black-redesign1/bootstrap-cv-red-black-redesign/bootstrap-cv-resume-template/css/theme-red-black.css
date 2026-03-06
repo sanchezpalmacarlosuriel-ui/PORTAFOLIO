@@ -1,0 +1,32 @@
+
+/* Red & Black Theme Override */
+body {
+    background-color: #000000 !important;
+    color: #e5e5e5 !important;
+}
+
+a {
+    color: #ffffff !important;
+}
+
+a:hover {
+    color: #cc0000 !important;
+}
+
+.btn-primary, .bg-primary, .text-primary {
+    background-color: #2da5a5 !important;
+    border-color: #ffffff !important;
+    color: #ffffff !important;
+}
+
+.progress-bar {
+    background-color: #ff1a1a !important;
+}
+
+.navbar, .bg-dark {
+    background-color: #000000 !important;
+}
+
+section {
+    background-color: #0a0a0a;
+}
